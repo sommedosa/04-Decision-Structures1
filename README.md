@@ -4,83 +4,83 @@
 
 1. A __________ structure can execute a set of statements only under certain circumstances.
 
-a. sequence
+	a. sequence
 
-b. circumstantial
+	b. circumstantial
 
-c. decision
+	c. decision
 
-d. Boolean
+	d. Boolean
 
 2. A(n) __________ expression has a value of either True or False.
 
-a. binary
+	a. binary
 
-b. decision
+	b. decision
 
-c. unconditional
+	c. unconditional
 
-d. Boolean
+	d. Boolean
 
 3. A(n) _________ structure tests a condition and then takes one path if the condition is true, or another path if the condition is false.
 
-a. if statement
+	a. if statement
 
-b. single alternative decision
+	b. single alternative decision
 
-c. dual alternative decision
+	c. dual alternative decision
 
-d. sequence
+	d. sequence
 
 4. You use a(n) __________ statement to write a single alternative decision structure.
 
-a. test-jump
+	a. test-jump
 
-b. if
+	b. if
 
-c. if-else
+	c. if-else
 
-d. if-call
+	d. if-call
 
 5. You use a(n) __________ statement to write a dual alternative decision structure.
 
-a. test-jump
+	a. test-jump
 
-b. if
+	b. if
 
-c. if-else
+	c. if-else
 
-d. if-call
+	d. if-call
 
 6. A compound Boolean expression created with the __________ operator is true only if both of its subexpressions are true.
 
-a. and
+	a. and
 
-b. or
+	b. or
 
-c. not
+	c. not
 
-d. both
+	d. both
 
 7. A compound Boolean expression created with the _________ operator is true if either of its subexpressions is true.
 
-a. and
+	a. and
 
-b. or
+	b. or
 
-c. not
+	c. not
 
-d. either
+	d. either
 
 8. The ___________ operator takes a Boolean expression as its operand and reverses its logical value.
 
-a. and
+	a. and
 
-b. or
+	b. or
 
-c. not
+	c. not
 
-d. either
+	d. either
 
 **True or False**
 
