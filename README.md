@@ -82,6 +82,8 @@
 
 	d. either
 
+
+
 **True or False**
 
 1. A single alternative decision structure tests a condition and then takes one path if the condition is true, or another path if the condition is false.
@@ -99,6 +101,8 @@
 7. "Duck" < "Duck" + "Duck"
 
 8. "ty" in "Python"
+
+
 
 **True or False**
 
