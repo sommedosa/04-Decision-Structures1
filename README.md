@@ -120,13 +120,16 @@ Assume the value of a is 1 and the value of b is 1.5, and determine whether the 
 
 6. ((a == b) and (a * a < b * b)) or ((b < a) and (2 * a < b))
 
-7. ((a == b) or not (b < a)) and ((a < b) or (b == a + 1)
+7. ((a == b) or not (b < a)) and ((a < b) or (b == a + 1))
 
-8. 3 * a == 2 * b 10. ((5 – a) * b) < 7
+8. 3 * a == 2 * b 
 
 9. b <= 3
 
 10. a ** b == b ** a
+
+11. ((5 – a) * b) < 7
+
 
 **Short Answer**
 
