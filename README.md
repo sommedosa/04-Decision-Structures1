@@ -7,16 +7,16 @@
   - One is taken if the condition is true, and the other if the condition is false
 * Nested decision structures: a decision structure can be nested inside another decision structure
 
-## The if Statement
+### The if Statement
 * Control structure: logical design that controls order in which set of statements execute
 * Sequence structure: set of statements that execute in the order they appear
 * Decision structure: specific action(s) performed only if a condition exists
 
-## Boolean Expressions and Relational Operators
+### Boolean Expressions and Relational Operators
 * Boolean expression: expression tested by if statement to determine if it is true or false
 * Relational operator: determines whether a specific relationship exists between two values
 
-## Comparing Strings
+### Comparing Strings
 Strings can be compared using the == and != operators
 String comparisons are case sensitive
 Strings can be compared using >, <, >=, and <=
