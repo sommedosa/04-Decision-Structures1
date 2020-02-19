@@ -25,7 +25,7 @@ If shorter word is substring of longer word, longer word is greater than shorter
 
 
 ----------------------------------
-
+</br> </br>
 ## Exercise 4
 
 1. A __________ structure can execute a set of statements only under certain circumstances.
@@ -107,9 +107,9 @@ If shorter word is substring of longer word, longer word is greater than shorter
 	c. not
 
 	d. either
+
+
 </br> </br>
-
-
 **True or False**
 
 1. A single alternative decision structure tests a condition and then takes one path if the condition is true, or another path if the condition is false.
