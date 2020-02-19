@@ -130,7 +130,6 @@ If shorter word is substring of longer word, longer word is greater than shorter
 
 
 </br> </br>
-**True or False**
 **Assume the value of a is 1 and the value of b is 1.5, and determine whether the condition evaluates to True or False.**
 
 1. a ** (5 – 2) > 7
