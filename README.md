@@ -1,5 +1,31 @@
 # Decision Structures and Boolean Logic #1
 
+## Decision structures, including:
+* Single alternative decision structures: provides only one alternative path of execution
+  - If condition is not true, exit the structure
+* Dual alternative decision structures: two possible paths of execution
+  - One is taken if the condition is true, and the other if the condition is false
+* Nested decision structures: a decision structure can be nested inside another decision structure
+
+## The if Statement
+* Control structure: logical design that controls order in which set of statements execute
+* Sequence structure: set of statements that execute in the order they appear
+* Decision structure: specific action(s) performed only if a condition exists
+
+## Boolean Expressions and Relational Operators
+* Boolean expression: expression tested by if statement to determine if it is true or false
+* Relational operator: determines whether a specific relationship exists between two values
+
+## Comparing Strings
+Strings can be compared using the == and != operators
+String comparisons are case sensitive
+Strings can be compared using >, <, >=, and <=
+Compared character by character based on the ASCII values for each character
+If shorter word is substring of longer word, longer word is greater than shorter word
+
+
+----------------------------------
+
 ## Exercise 4
 
 1. A __________ structure can execute a set of statements only under certain circumstances.
