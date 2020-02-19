@@ -107,7 +107,7 @@ If shorter word is substring of longer word, longer word is greater than shorter
 	c. not
 
 	d. either
-
+</br> </br>
 
 
 **True or False**
@@ -129,7 +129,7 @@ If shorter word is substring of longer word, longer word is greater than shorter
 8. "ty" in "Python"
 
 
-
+</br> </br>
 **True or False**
 
 Assume the value of a is 1 and the value of b is 1.5, and determine whether the condition evaluates to True or False.
@@ -156,7 +156,7 @@ Assume the value of a is 1 and the value of b is 1.5, and determine whether the 
 
 11. ((5 – a) * b) < 7
 
-
+</br> </br>
 **Short Answer**
 
 1. Explain how a single alternative decision structure and a dual alternative decision structure differ.
